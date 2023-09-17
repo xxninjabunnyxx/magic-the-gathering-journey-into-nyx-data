@@ -1,0 +1,126 @@
+---
+object: card
+id: 207128b3-2de3-495a-bf29-eec50c3bd752
+oracle_id: 83cf1169-5853-4332-b897-7b17d72d76ab
+multiverse_ids:
+- 380523
+mtgo_id: 52240
+mtgo_foil_id: 52241
+tcgplayer_id: 82238
+cardmarket_id: 266630
+name: Twinflame
+lang: en
+released_at: '2014-05-02'
+uri: https://api.scryfall.com/cards/207128b3-2de3-495a-bf29-eec50c3bd752
+scryfall_uri: https://scryfall.com/card/jou/115/twinflame?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/2/0/207128b3-2de3-495a-bf29-eec50c3bd752.jpg?1593096134
+  normal: https://cards.scryfall.io/normal/front/2/0/207128b3-2de3-495a-bf29-eec50c3bd752.jpg?1593096134
+  large: https://cards.scryfall.io/large/front/2/0/207128b3-2de3-495a-bf29-eec50c3bd752.jpg?1593096134
+  png: https://cards.scryfall.io/png/front/2/0/207128b3-2de3-495a-bf29-eec50c3bd752.png?1593096134
+  art_crop: https://cards.scryfall.io/art_crop/front/2/0/207128b3-2de3-495a-bf29-eec50c3bd752.jpg?1593096134
+  border_crop: https://cards.scryfall.io/border_crop/front/2/0/207128b3-2de3-495a-bf29-eec50c3bd752.jpg?1593096134
+mana_cost: "{1}{R}"
+cmc: 2.0
+type_line: Sorcery
+oracle_text: |-
+  Strive — This spell costs {2}{R} more to cast for each target beyond the first.
+  Choose any number of target creatures you control. For each of them, create a token that's a copy of that creature, except it has haste. Exile those tokens at the beginning of the next end step.
+colors:
+- R
+color_identity:
+- R
+keywords:
+- Strive
+all_parts:
+- object: related_card
+  id: 207128b3-2de3-495a-bf29-eec50c3bd752
+  component: combo_piece
+  name: Twinflame
+  type_line: Sorcery
+  uri: https://api.scryfall.com/cards/207128b3-2de3-495a-bf29-eec50c3bd752
+- object: related_card
+  id: ddd21725-17a3-40f9-bb9d-764c735949ef
+  component: token
+  name: Copy
+  type_line: Token
+  uri: https://api.scryfall.com/cards/ddd21725-17a3-40f9-bb9d-764c735949ef
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 204d2dca-1887-4721-9558-164aa7bbeb4f
+set: jou
+set_name: Journey into Nyx
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/204d2dca-1887-4721-9558-164aa7bbeb4f
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Ajou&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/jou?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/207128b3-2de3-495a-bf29-eec50c3bd752/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A83cf1169-5853-4332-b897-7b17d72d76ab&unique=prints
+collector_number: '115'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Chase Stone
+artist_ids:
+- 2d753f61-5f5b-468e-97ea-8e0fdd347340
+illustration_id: cc7ddbed-f5b2-4b97-990a-255a3f2a8f3d
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 1007
+penny_rank: 2075
+prices:
+  usd: '2.50'
+  usd_foil: '10.43'
+  usd_etched: 
+  eur: '0.80'
+  eur_foil: '5.39'
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380523
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Twinflame&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Twinflame&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Twinflame
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/82238?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Twinflame&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/52240?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

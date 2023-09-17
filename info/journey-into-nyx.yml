@@ -1,0 +1,21 @@
+---
+object: set
+id: 204d2dca-1887-4721-9558-164aa7bbeb4f
+code: jou
+mtgo_code: jou
+arena_code: jou
+tcgplayer_id: 1277
+name: Journey into Nyx
+uri: https://api.scryfall.com/sets/204d2dca-1887-4721-9558-164aa7bbeb4f
+scryfall_uri: https://scryfall.com/sets/jou
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Ajou&unique=prints
+released_at: '2014-05-02'
+set_type: expansion
+card_count: 165
+printed_size: 165
+digital: false
+nonfoil_only: false
+foil_only: false
+block_code: ths
+block: Theros
+icon_svg_uri: https://svgs.scryfall.io/sets/jou.svg?1694404800

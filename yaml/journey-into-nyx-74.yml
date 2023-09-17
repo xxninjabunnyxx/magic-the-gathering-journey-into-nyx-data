@@ -1,0 +1,134 @@
+---
+object: card
+id: ff5987ab-570a-426c-ae4a-a270fac6b346
+oracle_id: 1ebafd78-269a-4974-88d2-e75b44b744c2
+multiverse_ids:
+- 380443
+mtgo_id: 52114
+mtgo_foil_id: 52115
+tcgplayer_id: 82230
+cardmarket_id: 266622
+name: King Macar, the Gold-Cursed
+lang: en
+released_at: '2014-05-02'
+uri: https://api.scryfall.com/cards/ff5987ab-570a-426c-ae4a-a270fac6b346
+scryfall_uri: https://scryfall.com/card/jou/74/king-macar-the-gold-cursed?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/f/f/ff5987ab-570a-426c-ae4a-a270fac6b346.jpg?1593095759
+  normal: https://cards.scryfall.io/normal/front/f/f/ff5987ab-570a-426c-ae4a-a270fac6b346.jpg?1593095759
+  large: https://cards.scryfall.io/large/front/f/f/ff5987ab-570a-426c-ae4a-a270fac6b346.jpg?1593095759
+  png: https://cards.scryfall.io/png/front/f/f/ff5987ab-570a-426c-ae4a-a270fac6b346.png?1593095759
+  art_crop: https://cards.scryfall.io/art_crop/front/f/f/ff5987ab-570a-426c-ae4a-a270fac6b346.jpg?1593095759
+  border_crop: https://cards.scryfall.io/border_crop/front/f/f/ff5987ab-570a-426c-ae4a-a270fac6b346.jpg?1593095759
+mana_cost: "{2}{B}{B}"
+cmc: 4.0
+type_line: Legendary Creature — Human Noble
+oracle_text: 'Inspired — Whenever King Macar, the Gold-Cursed becomes untapped, you
+  may exile target creature. If you do, create a Gold token. (It''s an artifact with
+  "Sacrifice this artifact: Add one mana of any color.")'
+power: '2'
+toughness: '3'
+colors:
+- B
+color_identity:
+- B
+keywords:
+- Inspired
+produced_mana:
+- B
+- G
+- R
+- U
+- W
+all_parts:
+- object: related_card
+  id: ff5987ab-570a-426c-ae4a-a270fac6b346
+  component: combo_piece
+  name: King Macar, the Gold-Cursed
+  type_line: Legendary Creature — Human Noble
+  uri: https://api.scryfall.com/cards/ff5987ab-570a-426c-ae4a-a270fac6b346
+- object: related_card
+  id: 655005f1-b673-4591-a353-c0c10dd26036
+  component: token
+  name: Gold
+  type_line: Token Artifact — Gold
+  uri: https://api.scryfall.com/cards/655005f1-b673-4591-a353-c0c10dd26036
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 204d2dca-1887-4721-9558-164aa7bbeb4f
+set: jou
+set_name: Journey into Nyx
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/204d2dca-1887-4721-9558-164aa7bbeb4f
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Ajou&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/jou?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/ff5987ab-570a-426c-ae4a-a270fac6b346/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A1ebafd78-269a-4974-88d2-e75b44b744c2&unique=prints
+collector_number: '74'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Greg Staples
+artist_ids:
+- 93d65564-bf00-447b-8406-e2031f03b6b1
+illustration_id: 9dd16dc7-06eb-46a0-9c87-c20e2f839271
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 5808
+penny_rank: 8311
+prices:
+  usd: '0.52'
+  usd_foil: '6.10'
+  usd_etched: 
+  eur: '0.48'
+  eur_foil: '5.49'
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380443
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=King+Macar%2C+the+Gold-Cursed&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=King+Macar%2C+the+Gold-Cursed&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=King+Macar%2C+the+Gold-Cursed
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/82230?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=King+Macar%2C+the+Gold-Cursed&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/52114?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

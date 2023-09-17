@@ -1,0 +1,115 @@
+---
+object: card
+id: 49b152cc-d39f-470e-8b62-e4a833db7b88
+oracle_id: 4834e6f2-1544-4e58-9092-ecc136cc0dee
+multiverse_ids:
+- 380483
+mtgo_id: 52196
+mtgo_foil_id: 52197
+tcgplayer_id: 82308
+cardmarket_id: 266742
+name: Reviving Melody
+lang: en
+released_at: '2014-05-02'
+uri: https://api.scryfall.com/cards/49b152cc-d39f-470e-8b62-e4a833db7b88
+scryfall_uri: https://scryfall.com/card/jou/138/reviving-melody?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/4/9/49b152cc-d39f-470e-8b62-e4a833db7b88.jpg?1593096307
+  normal: https://cards.scryfall.io/normal/front/4/9/49b152cc-d39f-470e-8b62-e4a833db7b88.jpg?1593096307
+  large: https://cards.scryfall.io/large/front/4/9/49b152cc-d39f-470e-8b62-e4a833db7b88.jpg?1593096307
+  png: https://cards.scryfall.io/png/front/4/9/49b152cc-d39f-470e-8b62-e4a833db7b88.png?1593096307
+  art_crop: https://cards.scryfall.io/art_crop/front/4/9/49b152cc-d39f-470e-8b62-e4a833db7b88.jpg?1593096307
+  border_crop: https://cards.scryfall.io/border_crop/front/4/9/49b152cc-d39f-470e-8b62-e4a833db7b88.jpg?1593096307
+mana_cost: "{2}{G}"
+cmc: 3.0
+type_line: Sorcery
+oracle_text: |-
+  Choose one or both —
+  • Return target creature card from your graveyard to your hand.
+  • Return target enchantment card from your graveyard to your hand.
+colors:
+- G
+color_identity:
+- G
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 204d2dca-1887-4721-9558-164aa7bbeb4f
+set: jou
+set_name: Journey into Nyx
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/204d2dca-1887-4721-9558-164aa7bbeb4f
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Ajou&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/jou?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/49b152cc-d39f-470e-8b62-e4a833db7b88/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A4834e6f2-1544-4e58-9092-ecc136cc0dee&unique=prints
+collector_number: '138'
+digital: false
+rarity: uncommon
+flavor_text: '"Listen to my song, and you need never forge a golden mask to return
+  to me."'
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Cynthia Sheppard
+artist_ids:
+- 9dfbdd58-65e6-40cf-951a-80e141061939
+illustration_id: 5ef56377-baaa-4280-bca5-05ecc19f1a7a
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 13647
+penny_rank: 12447
+prices:
+  usd: '0.11'
+  usd_foil: '0.26'
+  usd_etched: 
+  eur: '0.05'
+  eur_foil: '0.25'
+  tix: '0.03'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380483
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Reviving+Melody&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Reviving+Melody&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Reviving+Melody
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/82308?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Reviving+Melody&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/52196?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
